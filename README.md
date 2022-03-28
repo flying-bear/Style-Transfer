@@ -1,7 +1,7 @@
 # Style-Transfer
 Final Project for Machine Learning II Course at the University of Potsdam
 
-The project description can be found [here](...).
+The project description can be found [here](https://github.com/flying-bear/Style-Transfer/blob/main/FinalProject.ipynb).
 
 The project components include:
 * [AutoEncoder (code)](https://github.com/flying-bear/Style-Transfer/blob/main/AE.ipynb)
